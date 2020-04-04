@@ -6,6 +6,6 @@
  
  1. I don't know
 
-## My Favourite Website
+## My Favourite Website:
 
 [Visit our Outreach website!](https://outreach.mcmaster.ca)
