@@ -1,6 +1,6 @@
 # This is my project
  
- Hello my name is Markus
+ Hello! My name is Markus
  
 # Here are my favourite foods:
  
